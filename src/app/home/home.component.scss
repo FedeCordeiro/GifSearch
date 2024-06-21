@@ -1,0 +1,11 @@
+.container {
+    align-items: center;
+    text-align: center;
+}
+
+h1 {
+    margin: 20px;
+    filter: drop-shadow(
+        0 0 10px black
+    )
+}
