@@ -3,12 +3,13 @@ img {
   width: 250px;
   height: 250px;
   transition: 0.3s;
+  border-radius: 10px;
 }
 
 img:hover {
   transition: 0.3s;
   filter: drop-shadow(
-    0 0 10px black
+    0 0 15px black
   )
 }
 
