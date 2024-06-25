@@ -14,7 +14,7 @@ import { LoaderComponent } from './loader/loader.component';
     AppComponent,
     GifSearchComponent,
     HomeComponent,
-    LoaderComponent
+    LoaderComponent,
   ],
   imports: [
     BrowserModule,
